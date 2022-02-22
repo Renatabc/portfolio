@@ -8,16 +8,14 @@ Concluído!!!
 ## Demonstração da aplicação
 [Site do portólio](https://renatabc.github.io/portfolio/)
 
+## Pré-requisitos
 - Para **baixar o repositório**, recomenda-se o aplicativo GIT.
-
 [(Git - download)](https://git-scm.com/downloads)
 
-## Pré-requisitos
 - Após a instalação e configurações iniciais, utilizar no terminal GIT Bash o comando **git clone** e o **link do repositório**.
+- 
 - Para **edições**, recomendo o Visual Studio Code ou um editor online (utilizei o Replit).
-
 [Download Visual Studio Code](https://code.visualstudio.com/download)
-
 [Replit - editor de código online](http://replit.com)
 
 ## Tecnologias utilizadas
